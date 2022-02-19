@@ -67,7 +67,7 @@ body{
 .qr-font-bold{
     color: hsl(218, 44%, 22%) ;
     font-weight: 700;
-    font-size: 1.3rem;
+    font-size: 1rem;
 }
 .qr-font-light{
     text-align: center;

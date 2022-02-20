@@ -67,7 +67,7 @@ body{
 .qr-font-bold{
     color: hsl(218, 44%, 22%) ;
     font-weight: 700;
-    font-size: 10px;
+    font-size: 15px;
     padding: 0 2.1rem;
 }
 .qr-font-light{

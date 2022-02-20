@@ -36,7 +36,7 @@ body{
     /* height: 63%; */
     border-radius: 15px;
     min-width: 324px; 
-    max-width: 330px; 
+    /* max-width: 330px;  */
 }
 @media(max-width:375px){
     .qr-container{
@@ -70,10 +70,10 @@ body{
     padding: 0 2.1rem;
 }
 .qr-font-bold h1{
-    font-size: 1rem;
+    font-size: 1.3rem;
 }
 .qr-font-light{
     text-align: center;
     color: hsl(220, 15%, 55%) ;
-    padding: 0 2.1rem;
+    padding: 0 2.7rem;
 }

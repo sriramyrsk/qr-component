@@ -60,16 +60,18 @@ body{
     margin-bottom: 1rem;
 }
 .qr-font{
-    padding: 0 2.1rem;
+    /* padding: 0 1rem; */
     margin: 0.8rem auto;
     line-height: 1.39;
 }
 .qr-font-bold{
     color: hsl(218, 44%, 22%) ;
     font-weight: 700;
-    font-size: 1.1rem;
+    font-size: 10px;
+    padding: 0 2.1rem;
 }
 .qr-font-light{
     text-align: center;
     color: hsl(220, 15%, 55%) ;
+    padding: 0 2.1rem;
 }

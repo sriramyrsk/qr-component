@@ -38,7 +38,7 @@ body{
     margin: auto;
 }
 .qr-image img{
-    margin-top: 1rem;
+    margin: 0.75rem auto;
     width: 90%;
     border-radius: 17px;
 }
@@ -48,19 +48,19 @@ body{
     margin-bottom: 1rem;
 }
 .qr-font{
-    margin: 0.8rem auto;
+    margin: 0.7rem auto;
     line-height: 1.2;
 }
 .qr-font-bold{
     color: hsl(218, 44%, 22%) ;
     font-weight: 700;
-    padding: 0 2.1rem;
+    padding: 0 1.5rem;
 }
 .qr-font-bold h1{
-    font-size: 1.2rem;
+    font-size: 1.3rem;
 }
 .qr-font-light{
     text-align: center;
     color: hsl(220, 15%, 55%) ;
-    padding: 0 2.7rem;
+    padding: 0 1.5rem;
 }

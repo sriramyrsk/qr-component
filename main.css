@@ -56,7 +56,7 @@ body{
     font-weight: 700;
     padding: 0 1.5rem;
     margin-top: 1.5rem;
-    margin-bottom: 1.1rem;
+    margin-bottom: 1.3rem;
 }
 .qr-font-bold h1{
     font-size: 1.1rem;
@@ -67,5 +67,4 @@ body{
     font-size: 14px;
     color: hsl(220, 15%, 55%) ;
     padding: 0 1.8rem;
-    line-height: 1.6;
 }

@@ -55,7 +55,7 @@ body{
     color: hsl(218, 44%, 22%) ;
     font-weight: 700;
     padding: 0 1.5rem;
-    margin-top: 1.3rem;
+    margin-top: 1.5rem;
     margin-bottom: 1.5rem;
 }
 .qr-font-bold h1{
@@ -65,5 +65,5 @@ body{
 .qr-font-light{
     text-align: center;
     color: hsl(220, 15%, 55%) ;
-    padding: 0 2rem;
+    padding: 0 1.8rem;
 }

@@ -58,10 +58,10 @@ body{
 }
 .qr-font-bold h1{
     font-size: 1.1rem;
-    line-height: 1.7;
+    line-height: 2;
 }
 .qr-font-light{
     text-align: center;
     color: hsl(220, 15%, 55%) ;
-    padding: 0 1.5rem;
+    padding: 0 1.7rem;
 }
